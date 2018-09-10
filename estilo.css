@@ -71,7 +71,7 @@ video{
 	}
 
 .dupla{
-	width:50%;
+	width:46%;
 	padding:2%;
 	float:left;
 	background-color:red;
@@ -124,7 +124,7 @@ video{
 .segunda address{padding: 2% 2% 2% 40%; font-size:0.9em; font-style:normal;}
 
 #somos hr{
-	clear:both;
+	clear:left;
 	border:none;
 	}
 

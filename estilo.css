@@ -124,7 +124,7 @@ video{
 .segunda address{padding: 2% 2% 2% 40%; font-size:0.9em; font-style:normal;}
 
 #somos hr{
-	clear:both;
+	clear:right;
 	border:none;
 	}
 

@@ -32,7 +32,7 @@ h3{
 	letter-spacing:0.2em;
 	color:rgba(255,200,020,1);
 	padding:2em 0 0.6em 0;
-	text-align:top right;
+	text-align:center;
 }
 
 h4, h5, h6{
@@ -124,7 +124,7 @@ video{
 .segunda address{padding: 2% 2% 2% 40%; font-size:0.9em; font-style:normal;}
 
 #somos hr{
-	clear:left;
+	clear:both;
 	border:none;
 	}
 

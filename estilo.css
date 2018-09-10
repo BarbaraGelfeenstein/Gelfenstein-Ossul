@@ -66,13 +66,14 @@ video{
 
 #somos{
 	width:100%;
-	background:rgb(150,150,150);
+	background:rgb(255,255,255);
 	margin-bottom:2%;
 	}
 
 .dupla{
 	width:46%;
 	padding:2%;
+	border-image-width: rgba(0,0,0,1)
 	float:left;
 	background-color:red;
 	}

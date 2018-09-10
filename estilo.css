@@ -71,6 +71,7 @@ video{
 	width:100%;
 	background:rgb(255,255,255);
 	margin-bottom:2%;
+	border-width: rgba(0,0,0,1)
 	}
 
 .dupla{

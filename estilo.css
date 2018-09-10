@@ -18,14 +18,14 @@ h1, h2, h3, h4{
 h1{
 	letter-spacing:0.1em;
 	color:rgba(255,200,020,1);
-	text-align:top right;
+	text-align:center;
 }
 
 h2{
 	letter-spacing:0.02em;
 	color:rgba(0,0,0,1);
 	padding:0.2em 0;
-	text-align:top right;
+	text-align:center;
 }
 
 h3{
@@ -90,7 +90,7 @@ video{
 
 .primera{
 	min-height:300px;
-	text-align:left;
+	text-align:right;
 	background-color:rgba(255,255,255,1);
 	background-image:url('media/dupla-01.jpg');
 	background-position:top right;
@@ -124,7 +124,7 @@ video{
 .segunda address{padding: 2% 2% 2% 40%; font-size:0.9em; font-style:normal;}
 
 #somos hr{
-	clear:both;
+	clear:right;
 	border:none;
 	}
 

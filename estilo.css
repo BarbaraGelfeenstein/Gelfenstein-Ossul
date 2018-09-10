@@ -11,7 +11,8 @@ body{
 }
 
 h1,{
-	font-size: 20; 
+	font-size: 40;
+	font-family: 'Gotham Bold'
 }
 h2, h3, h4{
 	font-family: 'Gotham SemiBold', sans-serif;

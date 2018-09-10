@@ -18,14 +18,14 @@ h1, h2, h3, h4{
 h1{
 	letter-spacing:0.1em;
 	color:rgba(255,200,020,1);
-	text-align:right;
+	text-align:center;
 }
 
 h2{
 	letter-spacing:0.02em;
 	color:rgba(0,0,0,1);
 	padding:0.2em 0;
-	text-align:right;
+	text-align:center;
 }
 
 h3{
@@ -46,7 +46,7 @@ header{
 	width:98%;
 	top:40%;
 	position: absolute;
-	text-align:center;
+	text-align:right;
 	z-index:9;
 	color:white;
 }

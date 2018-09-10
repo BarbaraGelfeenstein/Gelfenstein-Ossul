@@ -16,14 +16,14 @@ h1, h2, h3, h4{
 }
 
 h1{
-	font-size: 5em;
+	font-size: 1em;
 	letter-spacing:0.1em;
 	color:rgba(255,200,020,1);
 	text-align: right;
 }
 
 h2{
-	font-size: 2em;
+	font-size: 0.5em;
 	letter-spacing:0.02em;
 	color:rgba(0,0,0,1);
 	padding:0.2em 0;

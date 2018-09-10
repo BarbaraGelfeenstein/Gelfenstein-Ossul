@@ -10,7 +10,10 @@ body{
 	font-weight:300;
 }
 
-h1, h2, h3, h4{
+h1,{
+	font-size: 20; 
+}
+h2, h3, h4{
 	font-family: 'Gotham SemiBold', sans-serif;
 	font-weight:700;
 }

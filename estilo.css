@@ -10,16 +10,13 @@ body{
 	font-weight:300;
 }
 
-h1,{
-	font-size: 40;
-	font-family: 'Gotham Bold'
-}
-h2, h3, h4{
+h1, h2, h3, h4{
 	font-family: 'Gotham SemiBold', sans-serif;
 	font-weight:700;
 }
 
 h1{
+	font-size: 40;
 	letter-spacing:0.1em;
 	color:rgba(255,200,020,1);
 	text-align: right;
